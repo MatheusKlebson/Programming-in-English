@@ -1,7 +1,3 @@
-import random
-import sys
-import os
-
 quote = "Always remember you are unique"
 
 multi_line_quote = "Just like everyone else"
