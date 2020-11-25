@@ -7,6 +7,6 @@ new_list = list(firt_tuple)
 new_tuple = tuple(new_list)
 
 
-print(firt_tuple)
-print(new_list)
-print(new_tuple)
+print(len(firt_tuple))
+print(max(new_list))
+print(min(new_tuple))
