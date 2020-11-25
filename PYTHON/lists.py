@@ -1,7 +1,7 @@
 grocery_list = ["Juice", "Patatoes","Tomatoes","Bananas"]
 print(f"First Item: {grocery_list[0]}")
 
-grocery_list[0] = "Orange Juice"
+grocery_list[0] = "Orange"
 print(f"New Item: {grocery_list[0]}")
 print(grocery_list[1:3])
 
@@ -16,7 +16,7 @@ print(grocery_list)
 grocery_list.insert(1,"Bean")
 print(grocery_list)
 
-grocery_list.remove("Orange Juice")
+grocery_list.remove("Orange")
 print(grocery_list)
 
 grocery_list.sort()
