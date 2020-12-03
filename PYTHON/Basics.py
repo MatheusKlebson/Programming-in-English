@@ -1,5 +1,4 @@
 print("Hello World")
-
 name = "Matheus"
 age = 18
 sex = "Man"
